@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "650237384958",
+    "firebase_url": "https://utscelvin.firebaseio.com",
+    "project_id": "utscelvin",
+    "storage_bucket": "utscelvin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650237384958:android:62cb26093e20e5c9c4adaf",
+        "android_client_info": {
+          "package_name": "com.asus.uts_amub_ti7a_1711500021_celvin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650237384958-escut5v82c8adhnn9u0f0g9c1j3bvdn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVn7KGoLdmjBIvAttiHvzr88qevbBUAi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650237384958-escut5v82c8adhnn9u0f0g9c1j3bvdn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
